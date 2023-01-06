@@ -1,0 +1,62 @@
+[0222/202001.852:ERROR:command_buffer_proxy_impl.cc(328)] GPU state invalid after WaitForGetOffsetInRange.
+[0223/000205.259:ERROR:frame_impl.cc(514)] Connection timeout for frame 17179869188 [4,4]
+[0223/000510.264:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/001708.702:ERROR:command_buffer_proxy_impl.cc(328)] GPU state invalid after WaitForGetOffsetInRange.
+[0223/001745.969:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/004140.930:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'value')", source: about:blank (1)
+[0223/004145.650:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'value')", source: about:blank (1)
+[0223/004213.608:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'value')", source: about:blank (1)
+[0223/004213.821:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot set properties of null (setting 'value')", source: about:blank (1)
+[0223/004214.018:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0223/004214.056:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/004214.057:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/004214.057:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/004214.057:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/004214.317:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/004218.339:ERROR:frame_impl.cc(514)] Connection timeout for frame 25769803781 [6,5]
+[0223/004218.584:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fan.yandex.ru%2Fsystem%2Fcontext.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/004221.676:INFO:frame_impl.cc(474)] Connection retry 1/3 for frame 25769803781 [6,5]
+[0223/004221.676:INFO:frame_host_impl.cc(585)] subframe 25769803781 [6,5] has reconnected
+[0223/004221.846:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/004222.107:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/004222.108:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/004222.108:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/004222.108:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005326.645:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0223/005326.680:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005326.681:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005326.681:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005326.681:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005326.934:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/005330.184:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005330.388:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005330.554:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005330.555:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005330.555:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005330.555:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005337.091:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0223/005401.908:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/005401.980:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0223/005402.013:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005402.013:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005402.013:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005402.013:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005404.954:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005405.137:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005405.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005405.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005405.327:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005405.327:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005804.926:INFO:CONSOLE(0)] "Refused to execute script from 'http://r.2ad.wtf/?orig=http%3A%2F%2Fpagead2.googlesyndication.com%2Fpagead%2Fjs%2Fadsbygoogle.js&id=0a0690647dccfb5a106de02de527808ec54e&reg=77' because its MIME type ('image/gif') is not executable.", source: http://p-bot.ru/ (0)
+[0223/005804.947:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0223/005804.977:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005804.977:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005804.977:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005804.977:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005808.640:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0223/005808.872:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005809.052:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005809.052:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005809.053:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/005809.053:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771078 [7,6]
+[0223/010003.574:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is 
